@@ -2,6 +2,6 @@
  A simple budget tracker web application
 
  ## Links to page
- [Live Page](https://kay0ss.github.io/progressive-budget/)
+ [Live Page](https://progressive-budget-jrt.herokuapp.com/)
 
  [Repo](https://github.com/Kay0ss/progressive-budget)
